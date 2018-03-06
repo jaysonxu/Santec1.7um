@@ -41,4 +41,5 @@ print(f2,['All_Norm.png'],'-dpng');
 toc
 %%
 fprintf('Test1');
-        
+%%
+fprintf('Test2'); 
