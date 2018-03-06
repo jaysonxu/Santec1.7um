@@ -39,10 +39,6 @@ ylabel('Intensity (Norm.)');
 axis tight;
 print(f2,['All_Norm.png'],'-dpng');
 toc
-%% test for github
-fprintf('you are geneous') 
-%% test2
-fprintf('test2');
-%% test3
-fprintf('test3');
+%%
+fprintf('Test1');
         
