@@ -48,6 +48,14 @@ fprintf('Test3');
 %%
 fprintf('Test4'); 
 %%
+<<<<<<< HEAD
 fprintf('Test8'); 
 %%
 fprintf('Test9'); 
+=======
+fprintf('Test5'); 
+%%
+fprintf('Test6'); 
+%%
+fprintf('Test7'); 
+>>>>>>> Jayson
