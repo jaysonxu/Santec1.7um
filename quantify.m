@@ -59,3 +59,5 @@ fprintf('Test6');
 %%
 fprintf('Test7'); 
 >>>>>>> Jayson
+%%
+fprintf('Test10'); 
